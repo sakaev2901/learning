@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "f8fed545b966059f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95cd9ce31b716a59",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69caed25d6bb6a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67baf11c6fb39c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409502e1a197d386",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f7886cd704eaf35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#java",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384
+  },
+  "right": {
+    "id": "cee3863d78be8daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "194a6cb67d2692fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8456763d81a850b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c145a302b48fbf92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "61d8eb08465e4ece",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a40c1b5b6a6710e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c2dfd0c0ee9fde6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e002a1dab93742b2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2842056123958227
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "notes/форматирование функций.md",
+    "notes/содержательные имена.md",
+    "notes/new.md",
+    "books/Чистый код.md",
+    "notes/good practicies.md",
+    "notes/java.md",
+    "notes/Изменение отношения к реальности.md",
+    "notes/@Эпиктет.md",
+    "notes/Robert Martin.md",
+    "notes/Протяжка со штангой.md"
+  ]
+}
